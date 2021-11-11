@@ -1,3 +1,5 @@
 /*
 /*/
-!/Assets/audio-manager/
+!/Assets/
+/Assets/*
+!/Assets/audio-manager
